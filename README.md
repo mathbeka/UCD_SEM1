@@ -4,7 +4,7 @@
 *Groep 12: Mathijs Bekaert; Tessa Colenbier* 
 
 22/01/2024
-
+TEST
 ## Samenvatting
 Er zijn veel sporters die ooit al een blessure hebben gehad of er nog altijd mee sukkelen, vaak stoppen ze daardoor met lopen of hebben ze schrik om terug op te starten. 
 Dit probleem is grondig onderzocht en onderbouwd door onderzoekers aan de UGent. Daaruit bleek dat lopers onbewust hun loopstijl aanpassen, door realtime feedback te geven aan de hand van ruis via muziek en wanneer er door een sensor een te grote schok gemeten wordt. Wij zullen verder werken met dit onderzoek. 
